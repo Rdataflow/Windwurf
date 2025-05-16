@@ -96,7 +96,7 @@ const layer = new TileLayer({
     normalize: false,
     sources: [
       {
-        url: 'https://windwurfs1.s3.dualstack.eu-central-1.amazonaws.com/subset/WI_1_masked_ZG_Int8_pos.tif',
+        url: 'https://windwurfs1.s3.dualstack.eu-central-1.amazonaws.com/subset/WI_19_masked.tif',
       },
     ],
   }),
